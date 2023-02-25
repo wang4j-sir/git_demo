@@ -18,6 +18,7 @@ public class TestSpringBootController {
         System.out.println("111111");
         System.out.println("22222222");
         System.out.println("win-----");
+        System.out.println(16.05);
     }
 
 
