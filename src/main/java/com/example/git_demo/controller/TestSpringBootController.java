@@ -13,4 +13,10 @@ public class TestSpringBootController {
     public String hello(){
         return "SpringBoot SUCCESS!";
     }
+
+    public static void main(String[] args) {
+        System.out.println("111111");
+    }
+
+
 }
